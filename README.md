@@ -1,7 +1,7 @@
 # STATS220
 The purpose of this repo is to store code for STATS220 projects
 
-**Projects **
+## Projects
 1. Creating HTML by combining modern technologies: 
       _Meme Creation, HTML Creation_
 2. Creating web-based dynamic reporting systems
